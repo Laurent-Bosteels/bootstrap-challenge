@@ -1,0 +1,22 @@
+{
+  "name": "bootstrap-challenge",
+  "version": "1.0.0",
+  "description": "Bootstrap learning challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Laurent-Bosteels/bootstrap-challenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Laurent-Bosteels/bootstrap-challenge/issues"
+  },
+  "homepage": "https://github.com/Laurent-Bosteels/bootstrap-challenge#readme",
+  "dependencies": {
+    "bootstrap": "^5.0.2"
+  }
+}
