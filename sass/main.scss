@@ -5,6 +5,10 @@ $primary: #909187;
     background: none;
   }
 
+.second-nav{
+    top: 50px;
+}
+
 .masthead {
     height: 100vh;
     min-height: 500px;
@@ -12,7 +16,12 @@ $primary: #909187;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-  }  
+  }
+
+  section {
+      border-top: 0.5px solid lightgrey;
+      border-bottom: 0.5px solid lightgrey;
+  }
 
 // bootstrap import
 @import '../node_modules/bootstrap/scss/bootstrap'
